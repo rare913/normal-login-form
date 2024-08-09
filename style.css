@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('./wp1836700-aesthetic-wallpapers.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.box {
+    width: 400px;
+    height: 450px;
+    box-shadow: 16px 14px 20px #0000008c;
+    border-radius: 5px;
+}
+
+form {
+    margin-top: 100px;
+}
+
+button {
+    font-size: x-large;
+    background-color: #045aaa;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+input {
+    border-radius:2ic;
+    font-size: x-large;
+    background-color: rgb(220, 220, 220);
+}
+
+h2 {
+    font-size: xx-large;
+}
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
